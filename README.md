@@ -6,7 +6,7 @@ In this module, we used Python, SQLAlchemy and Flask to analyze and visualize cl
 
 ## Results
 
-THrough our analysis, we were able to compare the weather results from the month of June through the month of December. The summaries of the results are shown below: 
+Through our analysis, we were able to compare the weather results from the month of June through the month of December. The summaries of the results are shown below: 
 
 June Statistics: 
 
